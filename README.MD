@@ -2,25 +2,33 @@
 
 ## 🧑‍💻 About Me
 
-I am a backend-focused developer with a strong interest in system-level programming and computer science fundamentals.
+I am a backend-focused developer who builds reliable, scalable systems and studies how software works under the hood.
 
-Currently:
+I combine practical engineering with deep learning in computer science fundamentals, system design, and low-level concepts. My experience includes Node.js, APIs, Telegram bots, and data-processing services.
 
-* 🎓 Studying at university
-* 💼 Working as a freelance developer
-* 🧠 Learning low-level concepts, Linux, and computer architecture
+I value:
 
-I value clean engineering solutions, minimalism, and understanding how things work under the hood.
+* clean architecture over quick fixes
+* simplicity and maintainability
+* engineering-driven solutions
+* solving non-trivial problems and improving existing systems
 
----
+I am looking for opportunities to grow as an engineer, contribute to meaningful products, and join teams that value technical depth and continuous learning.
+
+## 🚀 What I’m Working On
+
+* strengthening backend and API development skills
+* improving system design thinking
+* deepening knowledge of Linux and low-level programming
+* building production-like projects with real users and real constraints
 
 ## 🛠 Tech Stack
 
 **Languages**
 
 * JavaScript (Node.js)
-* C (learning)
-* Python (basic)
+* TypeScript
+* React
 
 **Backend**
 
@@ -28,6 +36,7 @@ I value clean engineering solutions, minimalism, and understanding how things wo
 * Express
 * REST API design
 * JWT authentication
+* Redux
 
 **Database**
 
@@ -37,81 +46,28 @@ I value clean engineering solutions, minimalism, and understanding how things wo
 **Tools & Environment**
 
 * Linux
+* Docker
 * Git
-* CLI / Terminal workflows
+* CLI / terminal workflows
 
----
+## 🎯 Focus Areas
 
-## 📂 Projects
+I care about how software interacts with hardware and how systems behave under real-world constraints.
 
-### 🔹 Task Tracker API
+My main focus areas are:
 
-Backend API for tracking habits and tasks.
-
-**Features:**
-
-* JWT authentication
-* RESTful architecture
-* Database integration (PostgreSQL + Prisma)
-
-👉 Focus: backend architecture, auth, DB design
-
----
-
-### 🔹 Console RPG Game
-
-CLI-based RPG game.
-
-**Features:**
-
-* Object-oriented design
-* Game logic and state management
-* Terminal interaction
-
-👉 Focus: logic design, clean structure, CLI
-
----
-
-## 💼 Experience
-
-**Freelance Developer**
-
-* Backend development
-* Small automation and scripting tasks
-
-**Bartender**
-
-* Communication skills
-* Stress management
-* Working in fast-paced environments
-
----
-
-## 📚 Education
-
-* University student (Ukraine)
-
----
-
-## 🎯 Interests
-
-* Low-level programming
-* Computer architecture
-* Linux systems
-* Clean and efficient code
-
----
+* computer architecture and memory models
+* performance characteristics and scalability
+* Linux-based development and debugging
+* containerized deployments and system-level behavior
 
 ## 📫 Contact
 
-* Email: your_email_here
-* Telegram: your_telegram
-* GitHub: https://github.com/your-username
-
----
+* Email: andrew.chumakov12@gmail.com
+* Telegram: @AndrewChumakov
 
 ## ⚙️ Philosophy
 
-> "Understand the system, not just the tools."
+> “Understand the system, not just the tools.”
 
-I aim to become an engineer who builds reliable and well-structured systems, not just working code.
+I want to build reliable, well-structured systems — not just working code.
